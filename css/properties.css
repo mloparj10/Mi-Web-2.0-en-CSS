@@ -1,0 +1,54 @@
+
+{
+margin:0;
+padding:0;
+}
+a:link, a:visited, a:hover, a:active {
+color:yellow;
+font-size:16px;
+}
+body {
+background:#eee;
+font-family:Arial black;
+}
+h1 {
+color:#c0c;
+font-size:24px;
+}
+p {
+font-size:16px;
+}
+ul {
+list-style-type:none;
+}
+#cabecera {
+color:#ff9;
+background-color:#000000;
+padding:20px;
+font-family: impact;
+}
+#contenedor {
+margin:0 auto;
+width:1850px;
+}
+#contenido {
+background-color:#000;
+float:left;
+height:670px;
+padding:10px;
+width:1630px;
+}
+#menu {
+background-image:url("../images/fondomenu2.gif");
+float:left;
+height:650px;
+padding:20px;
+width:160px;
+}
+#pie {
+background-color:#000000;
+clear:both;
+color:#900;
+padding:10px;
+text-align:center;
+}
